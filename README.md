@@ -29,7 +29,6 @@ The extension comes with four distinct flavors, each available in both dark and 
    - Custom icons for NestJS-specific files and patterns
    - Ideal for backend development with NestJS
 
-
 ## Features
 
 - Hundreds of file and folder icons, matching the [vscode-icons](https://github.com/vscode-icons/vscode-icons) experience
